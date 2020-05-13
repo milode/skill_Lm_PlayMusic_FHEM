@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_PlayMusic_FHEM",
+    "icon": "time",
+    "description": "Musik abspielen ueber fhem",
+    "slotTypes": [],
+    "intents": []
+}
